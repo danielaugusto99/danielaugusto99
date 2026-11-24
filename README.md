@@ -1,4 +1,4 @@
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x0bTZ6bHVyYnB4eHh6bHVyYnB4eHh6bHVyYnB4eHh6/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer coding in dark setup" />
+<img align="right" width="380" src="./k=hacker-performing.jpg" alt="Developer with headphones in dark neon setup" />
 
 <h1 align="center">Hi, I'm Daniel Augusto 👋</h1>
 
