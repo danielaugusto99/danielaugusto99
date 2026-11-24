@@ -1,4 +1,4 @@
-<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer coding animation" />
+<img align="right" width="380" src="https://i.ibb.co/JzX15Hn/daniel-avatar-coding-neon-dark.gif" alt="Customized Developer Animation" />
 
 <h1 align="center">Hi, I'm Daniel Augusto 👋</h1>
 
