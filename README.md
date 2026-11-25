@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/daniel-victor-augusto-fabricio-a491031b1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="42" />
   </a>
-  <a href="mailto:seu-email@exemplo.com" target="_blank">
+  <a href="danielfabricio3064@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/mail.png" alt="Email" height="34" width="34" />
   </a>
 </p>
