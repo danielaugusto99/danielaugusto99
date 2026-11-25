@@ -1,4 +1,4 @@
-<img align="right" width="380" src="./k=hacker-performing.jpg" alt="Developer with headphones in dark neon setup" />
+<img align="right" width="380" src="./hacker-performing.jpg" alt="Developer in dark neon setup" />
 
 <h1 align="center">Hi, I'm Daniel Augusto 👋</h1>
 
